@@ -34,5 +34,5 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Abby Caplan apcaplan
+Linear regression is good when the data actually follows a linear trend because it smooths the data a lot, but breaks down quickly with non-linear or stochastic data. Rolling means are nice because they get at the time-varying aspects of the data without assuming linearity or trends, but sometimes they can miss or smooth over sharp changes. Interpolation is particularly helpful for missing values or upsampling, but it doesn't really smooth the data, just increases its resolution. It also doesn't take into account seasonality and may be blurring over a larger trend.
